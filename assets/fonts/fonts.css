@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Emulogic';
+    src: url('Emulogic.eot');
+    src: url('Emulogic.eot?#iefix') format('embedded-opentype'),
+        url('Emulogic.woff2') format('woff2'),
+        url('Emulogic.woff') format('woff'),
+        url('Emulogic.ttf') format('truetype'),
+        url('Emulogic.svg#Emulogic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nokia';
+    src: url('NokiaCellphoneFC-Small.eot');
+    src: url('NokiaCellphoneFC-Small.eot?#iefix') format('embedded-opentype'),
+        url('NokiaCellphoneFC-Small.woff2') format('woff2'),
+        url('NokiaCellphoneFC-Small.woff') format('woff'),
+        url('NokiaCellphoneFC-Small.ttf') format('truetype'),
+        url('NokiaCellphoneFC-Small.svg#NokiaCellphoneFC-Small') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Martyric';
+    src: url('MartyricPersonalUseOnly.eot');
+    src: url('MartyricPersonalUseOnly.eot?#iefix') format('embedded-opentype'),
+        url('MartyricPersonalUseOnly.woff2') format('woff2'),
+        url('MartyricPersonalUseOnly.woff') format('woff'),
+        url('MartyricPersonalUseOnly.ttf') format('truetype'),
+        url('MartyricPersonalUseOnly.svg#MartyricPersonalUseOnly') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,13 @@
+<svg width="68" height="31" viewBox="0 0 68 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="4" y="4" width="60" height="23" fill="#DB2E43"/>
+<rect x="11" y="13" width="4" height="4" fill="white"/>
+<rect x="8" width="52" height="4" fill="black"/>
+<rect x="8" y="27" width="52" height="4" fill="black"/>
+<rect y="8" width="4" height="15" fill="black"/>
+<rect x="64" y="8" width="4" height="15" fill="black"/>
+<rect x="4" y="4" width="4" height="4" fill="black"/>
+<rect x="60" y="4" width="4" height="4" fill="black"/>
+<rect x="4" y="23" width="4" height="4" fill="black"/>
+<rect x="60" y="23" width="4" height="4" fill="black"/>
+<path d="M21.2229 9.59817H24.5925V19.7068H27.962V21.3916H21.2229V9.59817ZM29.6468 21.3916V9.59817H33.0163V21.3916H29.6468ZM38.0707 18.022H36.3859V14.6525H34.7011V9.59817H38.0707V14.6525H41.4402V9.59817H44.8098V14.6525H43.125V18.022H41.4402V21.3916H38.0707V18.022ZM53.2336 12.9677V14.6525H49.8641V19.7068H54.9184V21.3916H46.4945V9.59817H54.9184V11.2829H49.8641V12.9677H53.2336Z" fill="white"/>
+</svg>
